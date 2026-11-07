@@ -18,7 +18,7 @@ Claude Code に入れて使う「AIの会社」です。
 2. Claude Code で、そのフォルダを開く
 3. 「はじめまして。今日からよろしく。」と話しかける
 
-くわしい入れ方（画面つき）：〔noteの無料記事のURL〕
+くわしい入れ方（画面つき）：https://note.com/keita_aiwork/n/nedb1014fd422
 
 ## 普通にAIを使うより良い所
 
@@ -33,7 +33,8 @@ Claude Code に入れて使う「AIの会社」です。
 無料版にいない担当が要る頼みの時は、できる所まで仕上げたうえで「〇〇係がいると、△△もできます（今は空席です）」と1回だけ教えてくれます（同じ担当は7日に1回まで）。
 
 空席をうめた全員そろった版（共通・副業と発信・フリーランス・会社員・お店の36人＋作戦会議の型）はこちら：
-〔Brain / note の URL〕
+- note：https://note.com/keita_aiwork/n/n6acd9cecde9c
+- Brain：https://brain-market.com/u/keita_aiwork/a/b4MTM3YjMgoTZsNWa0JXY
 
 ## いるもの
 - Claude Code（Anthropic の有料プラン：Pro 以上）
